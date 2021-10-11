@@ -14,4 +14,5 @@
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: Anime ga daisuki
 
-[![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush6602&count_private=true&show_icons=true)]
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush6602&count_private=true&show_icons=true&theme=dark)
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ayush6602&theme=dark)
